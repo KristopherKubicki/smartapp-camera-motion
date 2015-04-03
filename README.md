@@ -1,5 +1,5 @@
 # Camera Motion
-Use your NVR software to trigger a SmartThings simulated presence sensor
+Use your NVR software to trigger a SmartThings simulated motion sensor
 
 I have lots of cameras that are controlled by dedicated NVR software.  This system is very good at detecting motion, but I had no way to get the motion detection back into SmartThings to trigger devices (turn on lights)
 
