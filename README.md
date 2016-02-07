@@ -13,7 +13,7 @@ After you copy the SmartApp code into your IDE, go back and hit the edit button 
 
 ![SmartThings My SmartApps IDE](https://cloud.githubusercontent.com/assets/478212/12870866/8abf1e60-cd1e-11e5-86ff-21cdac0a6bee.png)
 
-Once you've installed the SmartApp, it will display the active and inactive URL.  Simply copy those into your NVR's action space and everything should be good to go!
+Once you've installed the SmartApp, your mobile device will display the active and inactive URL.  Simply copy those into your NVR's action space and everything should be good to go!
 
 Protip:  If you're using this to active some kind of lighting while the camera is running, make sure you have the camera motion detection setup so that when the lights go off you don't retrigger motion!
 
