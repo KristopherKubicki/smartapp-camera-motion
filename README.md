@@ -1,4 +1,7 @@
 # Camera Motion
+
+> **Legacy note:** This is an older SmartThings/Hubitat-era integration. It remains public for people maintaining classic Groovy SmartApps and device handlers, but it is not actively maintained for the current SmartThings platform.
+
 Use your NVR software to trigger a SmartThings simulated motion sensor
 
 I have lots of cameras that are controlled by dedicated NVR software.  This system is very good at detecting motion, but I had no way to get the motion detection back into SmartThings to trigger devices (turn on lights)
